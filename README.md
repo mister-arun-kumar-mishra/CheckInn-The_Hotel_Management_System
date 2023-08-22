@@ -1,5 +1,5 @@
 # CheckInn-The_Hotel_Management_System
-![preview](https://github.com/mister-arun-kumar-mishra/CheckInn-The_Hotel_Management_System/tree/main/media/preview.gif)
+![preview](https://raw.githubusercontent.com/mister-arun-kumar-mishra/CheckInn-The_Hotel_Management_System/main/media/preview.gif)
 
 Welcome to CheckInn, your all-in-one solution for efficient hotel management.
 With CheckInn, managing your hotel's operations has never been easier.
